@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "236246003391",
+    "project_id": "eattime-bf79e",
+    "storage_bucket": "eattime-bf79e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236246003391:android:94c4ad6d096f5b0bb8200a",
+        "android_client_info": {
+          "package_name": "com.eattime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236246003391-7cjlu29jtbfkglmjqrkjail61t89alec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eattime",
+            "certificate_hash": "8026d04d8e54807ce6f30286743d8205a6239925"
+          }
+        },
+        {
+          "client_id": "236246003391-ssibfjadkm51eglve7m9kffsg3g76bj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKcwZ_1TSMSQtpljm23_zwY8BHCPbm4t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236246003391-ssibfjadkm51eglve7m9kffsg3g76bj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

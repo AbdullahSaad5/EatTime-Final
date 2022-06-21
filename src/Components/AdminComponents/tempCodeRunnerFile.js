@@ -1,0 +1,3 @@
+  disabledBackControl: {
+    color: '#BCBCBC',
+  },
